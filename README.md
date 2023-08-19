@@ -10,14 +10,14 @@
 - 📫 You can reach me @ **AbdullahMaqsood.inbox@gmail.com**
 
 <h3 align="left">
-Connect with me on: <a href="https://linkedin.com/in/abdullahmaqsood321" target="blank" title="LinkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahmaqsood321" height="30" width="40" /></a>
+Connect with me on: <a href="https://linkedin.com/in/abdullahmaqsood321" target="blank" title="LinkedIn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahmaqsood321" height="30" width="40" /></a>
 </h3>
 
 <h2 align="center">Languages and Tools:</h2>
 <h3 align="left">
 Programming Languages: 
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="C++"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="C++"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" title="C#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 </h3>
