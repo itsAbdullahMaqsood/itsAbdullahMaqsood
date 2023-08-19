@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Abdullah Maqsood </h1>
+<h1 align="center">Hi 👋, I'm Abdullah Maqsood </h1>
 <h3 align="center">A software developer from Pakistan</h3>
 
 - 🌱 I’m currently learning more about **front-end development**
