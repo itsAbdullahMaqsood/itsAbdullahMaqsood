@@ -12,7 +12,7 @@
 <h3 align="left">
 Connect with me on:
 &nbsp;&nbsp;&nbsp; 
-<a href="https://linkedin.com/in/abdullahmaqsood321" target="blank" title="LinkedIn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahmaqsood321" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdullahmaqsood321" target="blank" title="LinkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahmaqsood321" height="30" width="40" /></a>
 </h3>
 
 <h2 align="center">Languages and Tools:</h2>
