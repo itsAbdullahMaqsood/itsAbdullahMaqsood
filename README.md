@@ -15,7 +15,7 @@ Connect with me on:
 <a href="https://linkedin.com/in/abdullahmaqsood321" target="blank" title="LinkedIn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahmaqsood321" height="30" width="40" /></a>
 </h3>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">🛠 Languages and Tools:</h2>
 <h3 align="left">
 Programming Languages: 
 &nbsp;&nbsp;&nbsp;
@@ -29,6 +29,11 @@ Front-End Languages:
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>    
 &nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
+</h3>
+<h3>
+DataBases:
+&nbsp;&nbsp;&nbsp; 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img align = "center" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="70"/> </a>
 </h3>
 <h3>
 I also Know how to use 
