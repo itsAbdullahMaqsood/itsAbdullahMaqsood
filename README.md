@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abdullah Maqsood </h1>
-<h3 align="center">A CS student from Pakistan</h3>
+<h3 align="center">An Undergraduate CS student from Pakistan</h3>
 
 - 🌱 I’m currently learning more about **front-end development**
 
-- 💬 Want to know more about me? Visit my LinkedIn: [linkedin.com/in/abdullahmaqsood321](linkedin.com/in/abdullahmaqsood321)
-
-- 👨‍💻 Fluent in **Object Oriented programming and a few Data structures**
+- 👨‍💻 Fluent in **Object Oriented programming and Linear Data structures**
 
 - 📫 You can reach me @ **AbdullahMaqsood.inbox@gmail.com**
 
-<h3 align="left">
-Connect with me on:
-&nbsp; 
-<a href="https://linkedin.com/in/abdullahmaqsood321" target="blank" title="LinkedIn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahmaqsood321" height="30" width="40" /></a>
-</h3>
+- 💬 Want to know more about me? Connect with me on my &nbsp;<a href="https://linkedin.com/in/abdullahmaqsood321" target="blank" title="LinkedIn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahmaqsood321" width="17" /></a>
 
-<h2 align="center">🛠 Languages and Tools:</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsabdullahmaqsood&show_icons=true&locale=en&layout=compact" alt="Top Languages Used By Abdullah" /></p>
+
+<h2 align="center">🛠 Languages and Tools I Use:</h2>
 <h3 align="left">
 Programming Languages: 
 &nbsp;&nbsp;&nbsp;
@@ -34,6 +30,13 @@ Front-End Languages:
 DataBases:
 &nbsp;&nbsp;&nbsp; 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img align = "center" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="70"/> </a>
+</h3>
+<h3>
+IDEs and Code-Editors:
+&nbsp;&nbsp;&nbsp; 
+<img align = "center" src="https://github.com/itsAbdullahMaqsood/itsAbdullahMaqsood/blob/main/visual-studio.png" alt="VStudio" width="40"/>
+&nbsp;
+<img align = "center" src="https://github.com/itsAbdullahMaqsood/itsAbdullahMaqsood/blob/main/visual-studio-code.png" alt="VSCode" width="40"/>
 </h3>
 <h3>
 I also Know how to use 
