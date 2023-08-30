@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Maqsood </h1>
-<h3 align="center">An Undergraduate CS student from Pakistan</h3>
+<h3 align="center">An Undergraduate CS student from Pakistan</h3> &nbsp;
+
 
 - 🌱 I’m currently learning more about **front-end development** <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsabdullahmaqsood&show_icons=true&locale=en&layout=compact" alt="Top Languages Used By Abdullah" />
 
@@ -9,7 +10,7 @@
 
 - 💬 Want to know more about me? Connect with me on my &nbsp;<a href="https://linkedin.com/in/abdullahmaqsood321" target="blank" title="LinkedIn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahmaqsood321" width="17" /></a>
 
-
+&nbsp;
 
 <h2 align="center">🛠 Languages and Tools I Use:</h2>
 <h3 align="left">
