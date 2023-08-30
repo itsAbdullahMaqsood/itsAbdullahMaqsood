@@ -36,7 +36,7 @@ DataBases:
 IDEs and Code-Editors:
 &nbsp;&nbsp;&nbsp; 
 <img align = "center" src="https://github.com/itsAbdullahMaqsood/itsAbdullahMaqsood/blob/main/visual-studio.png" alt="VStudio" width="40"/>
-&nbsp;
+&nbsp;&nbsp;
 <img align = "center" src="https://github.com/itsAbdullahMaqsood/itsAbdullahMaqsood/blob/main/visual-studio-code.png" alt="VSCode" width="40"/>
 </h3>
 <h3>
