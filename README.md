@@ -19,6 +19,10 @@ Programming Languages:
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="C++"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" title="C#"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+&nbsp;
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" title="JavaScript"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="csharp" width="40" height="40"/> </a>          
+&nbsp;
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" title="TypeScript"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="csharp" width="40" height="40"/> </a>
 </h3>
 <h3>
 Front-End Languages: 
@@ -40,7 +44,7 @@ IDEs and Code-Editors:
 <img align = "center" src="https://github.com/itsAbdullahMaqsood/itsAbdullahMaqsood/blob/main/visual-studio-code.png" alt="VSCode" width="40"/>
 </h3>
 <h3>
-I also Know how to use 
+I also use 
 &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git & GitHub"> <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 &nbsp;
