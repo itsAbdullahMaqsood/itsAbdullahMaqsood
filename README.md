@@ -2,17 +2,15 @@
 <h1 align="center">Hi 👋, I'm Abdullah Maqsood </h1>
 <h3 align="center">An Undergraduate CS student from Pakistan</h3>
 
-🔭 I'm currently working on Production-level Flutter mobile apps at MacroModule Technologies, and building SkillLink — an AI & IoT-powered smart home maintenance platform with a technician marketplace, RAG chatbot, and real-time IoT anomaly detection.<br>
+🔭 I'm currently working on Production-level **Flutter mobile apps at MacroModule Technologies**, and building **SkillLink** — an AI & IoT-powered smart home maintenance platform with a technician marketplace, RAG chatbot, and real-time IoT anomaly detection.<br>
 
 👯 I'm looking to collaborate on Flutter mobile app projects, Node.js/Python backend services, Firebase/Supabase-integrated apps, and open-source initiatives in the mobile/AI space.<br>
 
-🤝 I'm looking for help with Advanced Flutter architecture patterns (Clean Architecture, MVVM), LangChain & RAG pipeline integration, and scaling Node.js + Firebase backends for real-world applications.<br>
-
-🌱 I'm currently learning Advanced Flutter state management & Software architectures, LangChain + Pinecone for RAG-based AI features, Node.js backend development, and sharpening my Python skills.<br>
+🌱 I'm currently learning Advanced **Flutter state management & Software architectures**, LangChain + Pinecone for **RAG-based AI features**, Node.js backend development, and sharpening my Python skills.<br>
 
 💬 Ask me about Flutter & Dart, Node.js, Firebase/Supabase, mobile app architecture, AI-powered features in apps, or what it's like leading a GDGoC chapter and mentoring the next generation of student tech leaders.<br>
 
-⚡ I led the GDGoC chapter at Lahore Garrison University, organized workshops on Gemini AI, GSoC & LinkedIn branding — now I'm mentoring the new lead while shipping production Flutter apps full-time. 🚀<br>
+⚡ I led the **GDGoC chapter** at **Lahore Garrison University**, organized workshops on Gemini AI, GSoC & LinkedIn branding — now I'm mentoring the new lead while shipping production Flutter apps full-time. 🚀<br>
 
 📫 You can reach me @ **AbdullahMaqsood.inbox@gmail.com**<br>
 
@@ -58,8 +56,6 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)  ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
-# 📊 Stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsabdullahmaqsood&theme=tokyonight)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsabdullahmaqsood&theme=tokyonight)<br/>
